@@ -1,0 +1,53 @@
+.main1{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.offer{
+    display: grid;
+    grid-template-columns: 70% 20%;
+}
+.main{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+h1{
+    font-weight: 800;
+}
+.online{
+    background-color: #f4ce14;
+    color: black;
+    padding: 3px;
+    font-size: 15pt;
+    font-weight: 700;
+    width: 12rem;
+    height: 3rem;
+    border-radius: 8px;
+    border: none;
+}
+.online:hover{
+    background-color: blue;
+    color: white;
+}
+.online:active{
+    background-color: white;
+    color: brown;
+}
+img{
+    height: 10rem;
+    width: 15rem;
+    border-radius: 1rem;
+}
+.main div{
+    background-color: whitesmoke;
+    border-radius: 2rem;
+    padding: 1rem;
+}
+h3{
+    font-weight: 600;
+    text-align: center;
+}
+h3{
+    padding-top: 3rem;
+}

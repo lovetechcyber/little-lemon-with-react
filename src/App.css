@@ -1,0 +1,7 @@
+
+.app {
+  background-color: white;
+  display: grid;
+  grid-template-rows: 12vh 60vh 100vh;
+  margin: 0;
+}
